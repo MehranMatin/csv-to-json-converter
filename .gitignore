@@ -1,0 +1,11 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.vscode
+
+# dependencies
+node_modules/
+
+# misc
+.DS_Store

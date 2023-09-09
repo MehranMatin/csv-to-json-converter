@@ -1,0 +1,5 @@
+name,storageArea,unitOfMeasure,supplier
+"Chicken",Meat Cooler,lbm,SupplierA
+"Fish",Meat Cooler,lbm,SupplierB
+"Carrots",Produce Cooler,lbm,SupplierA
+"Rice",Dry Goods,lbm,SupplierC
